@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What React concepts do you now feel most comfortable with?
+
+How would you explain the difference between props and state to someone new?
+
+What difficulties did you face building the project, and how did you solve them?
+
+What reusable patterns or components do you think could be improved in the next project?

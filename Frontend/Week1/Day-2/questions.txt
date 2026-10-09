@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What is the CSS box model and why is it important for layout?
+
+What is the difference between margin and padding?
+
+What are the advantages of using external stylesheets vs inline or internal CSS?
+
+How do class selectors differ from ID selectors in usage and priority?

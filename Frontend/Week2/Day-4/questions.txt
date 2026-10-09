@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why is useEffect required for performing API requests in React components?
+
+What are dependency arrays and how do they affect when useEffect runs?
+
+What is the difference between UI state (loading/error) and data state?
+
+How does managing asynchronous API calls differ from synchronous UI updates?

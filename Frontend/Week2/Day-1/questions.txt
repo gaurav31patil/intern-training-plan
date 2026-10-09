@@ -1,0 +1,9 @@
+Questions / Discussions
+
+How does React differ from building pages using plain HTML/CSS/JS?
+
+What is the purpose of a component in React and why is component reusability important?
+
+What is JSX and why is it used instead of regular JavaScript createElement()?
+
+How does the Virtual DOM improve performance?

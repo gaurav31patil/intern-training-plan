@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What UI/UX changes made the biggest improvement in your Task Management System?
+
+Why are accessibility practices important even if they take additional development time?
+
+What was the most challenging part of ensuring consistent user feedback?
+
+If given another week, what feature or improvement would you build next?

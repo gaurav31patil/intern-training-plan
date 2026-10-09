@@ -1,0 +1,9 @@
+Questions / Discussions
+
+When should you choose SSR (server-side rendering) vs SSG (static site generation)?
+
+How is server-side rendering different from client-side fetching in React?
+
+What are the benefits of having backend API routes inside Next.js?
+
+How did dynamic routing impact user experience and code maintainability?

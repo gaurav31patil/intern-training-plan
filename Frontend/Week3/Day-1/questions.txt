@@ -1,0 +1,9 @@
+Questions / Discussions
+
+When is Context a better choice than passing props between components?
+
+What pain point does prop drilling cause in large applications?
+
+When should you choose useReducer instead of multiple useState hooks?
+
+How does structuring global state improve maintainability in scaling apps?

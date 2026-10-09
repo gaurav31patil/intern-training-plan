@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What was the biggest difference between developing with React vs Next.js?
+
+What challenges did you face when implementing dynamic routes?
+
+Which page rendering strategy (SSR, SSG, CSR) would you choose for real-world production apps and why?
+
+How does Context improve state sharing in multi-page applications?

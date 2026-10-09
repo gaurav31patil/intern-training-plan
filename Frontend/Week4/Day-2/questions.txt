@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why do protected routes matter for security and user experience?
+
+How should UI differ based on user roles (e.g., admin vs developer)?
+
+What is the difference between storing tokens in localStorage, cookies, and memory?
+
+What issues might occur if authentication state is stored incorrectly?

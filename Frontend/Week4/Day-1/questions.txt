@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why is a global layout important for building scalable and consistent UI in multi-page apps?
+
+How does centralizing context improve app structure and maintainability?
+
+What folder structure conventions help scale real-world production projects?
+
+How does building separate UI layers (layout vs page vs component) improve developer workflow?

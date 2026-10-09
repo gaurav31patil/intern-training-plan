@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What problems does Flexbox solve compared to traditional float-based layouts?
+
+When should you choose Grid instead of Flexbox?
+
+How do justify-content and align-items affect layout alignment?
+
+How can Grid and Flexbox work together in the same page?

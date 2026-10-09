@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why are unique keys important when rendering lists in React?
+
+What benefits do reusable components provide in real applications?
+
+When would you choose conditional rendering? Why is it useful for user experience?
+
+How can using hooks like useMemo or useCallback improve performance?

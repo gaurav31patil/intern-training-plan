@@ -1,0 +1,9 @@
+Questions / Discussions
+
+When should you use props vs state in a component?
+
+Why do React inputs need to be controlled when managing form values?
+
+How does useState trigger UI updates?
+
+What challenges did you face while building the Todo List?

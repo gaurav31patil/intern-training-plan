@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why are semantic tags important for accessibility, SEO, and code readability?
+
+What is the difference between semantic and non-semantic elements?
+
+Why do forms play a key role in website interactivity?
+
+What should always be included inside the <head> section of an HTML document?

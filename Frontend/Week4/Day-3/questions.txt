@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What advantages do modals provide for create/edit UI interactions?
+
+Why do reusable components reduce duplication and improve maintainability?
+
+Which UI states (loading / empty / error) improve user experience the most?
+
+What challenges arise when managing form state in modals?

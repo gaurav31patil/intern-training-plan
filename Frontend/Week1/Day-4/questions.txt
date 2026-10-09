@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What does “mobile-first” mean in responsive design?
+
+Why are responsive units like %, rem, vh, and vw useful?
+
+What role do media queries play in layout adjustment?
+
+How does responsive design improve accessibility and usability?

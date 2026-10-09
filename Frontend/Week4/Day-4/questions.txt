@@ -1,0 +1,9 @@
+Questions / Discussions
+
+When should you use client-side fetching vs server-side fetching in Next.js?
+
+How do query parameters help with pagination and filtering?
+
+What UI behavior changes improve user experience with large data sets?
+
+What challenges did you face connecting the UI to real APIs?

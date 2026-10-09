@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Which parts of the UI re-render unnecessarily, and why?
+
+How does React.memo differ from useMemo and useCallback in purpose?
+
+When is optimization worth adding, and when is it unnecessary complexity?
+
+What insights did you gain from using the React Profiler tool?

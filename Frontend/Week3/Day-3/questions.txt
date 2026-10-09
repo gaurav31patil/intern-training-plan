@@ -1,0 +1,9 @@
+Questions / Discussions
+
+How does Next.js routing differ from React Router?
+
+What advantages does file-based routing provide?
+
+What is the difference between a page and a component in Next.js?
+
+Why are shared layout components useful in multi-page applications?
