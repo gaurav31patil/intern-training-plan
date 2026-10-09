@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why do backend applications need databases instead of storing everything in memory?
+
+What is the difference between SQL and NoSQL databases in terms of structure and use cases?
+
+Why do database operations need async handling in Node.js?
+
+What purpose do environment variables serve in backend applications?

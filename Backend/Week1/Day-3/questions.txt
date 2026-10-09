@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What is the difference between a normal function and an arrow function?
+
+What problem does callback hell create when chaining async operations?
+
+How do Promises improve the callback pattern?
+
+How does async/await make asynchronous code easier to read and maintain?

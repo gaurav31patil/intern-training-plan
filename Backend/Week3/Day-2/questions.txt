@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What problem does Mongoose solve compared to using MongoDB directly?
+
+How do schemas and models help maintain structure in a NoSQL database?
+
+What is the purpose of validation inside a schema?
+
+What is the difference between find() and findById()?

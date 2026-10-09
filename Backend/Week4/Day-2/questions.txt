@@ -1,0 +1,9 @@
+Questions / Discussions:
+
+What is the purpose of JWT in an authentication system?
+
+What is the difference between signing a token and verifying a token?
+
+Why is token expiration important for security?
+
+What is the benefit of using middleware for authentication instead of checking tokens inside routes?

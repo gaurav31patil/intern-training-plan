@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why is Express commonly used for building backend APIs?
+
+What is the difference between a route and a controller?
+
+How do request and response objects work inside a route handler?
+
+What advantage does separating routes into different files provide?

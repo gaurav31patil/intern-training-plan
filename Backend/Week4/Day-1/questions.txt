@@ -1,0 +1,9 @@
+Questions / Discussions:
+
+What is the difference between authentication and authorization in a real system?
+
+Why should passwords never be stored in plain text?
+
+How does hashing differ from encrypting a password?
+
+How do roles like "user" and "admin" affect what a user is allowed to do?

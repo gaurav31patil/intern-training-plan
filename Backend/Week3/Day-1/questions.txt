@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What is the main difference between SQL and NoSQL databases in terms of data structure?
+
+Why might an application choose MongoDB instead of PostgreSQL?
+
+What is the difference between a document and a collection?
+
+How does MongoDB compare to relational tables when storing flexible data?

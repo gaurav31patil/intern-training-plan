@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What is the purpose of the map() method, and when would you choose it over forEach()?
+
+What is the difference between filter() and find() in terms of output?
+
+How does reduce() work, and what kinds of problems is it best suited for?
+
+How does sort() behave with numbers vs strings, and why do we often need a compare function?

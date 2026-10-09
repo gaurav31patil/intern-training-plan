@@ -1,0 +1,9 @@
+Questions / Discussions
+
+When should you use let and when should you use const?
+
+What is the difference between primitive values and reference values?
+
+How did updating variables differ from updating objects or arrays?
+
+Why is it useful to use template strings for formatting output?

@@ -1,0 +1,9 @@
+Questions / Discussions:
+
+Why is input validation critical for secure backend systems?
+
+How does rate limiting contribute to preventing brute-force attacks?
+
+Why should sensitive configuration values be stored in environment variables?
+
+What advantages does a structured folder layout provide in production applications?

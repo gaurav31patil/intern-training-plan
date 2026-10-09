@@ -1,0 +1,9 @@
+Questions / Discussions
+
+Why should database queries in Node.js be written using async/await?
+
+What is SQL injection and how do parameterized queries prevent it?
+
+How is error handling different in database queries compared to file-based storage?
+
+What differences did you notice between implementing CRUD operations in PostgreSQL vs MongoDB?

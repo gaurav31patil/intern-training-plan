@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What problem does Node.js solve compared to browser-only JavaScript?
+
+What is the purpose of built-in modules such as fs and path?
+
+What does package.json represent and why is it important in a Node.js project?
+
+How does npm help manage dependencies in a backend project?

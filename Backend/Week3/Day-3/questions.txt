@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What is the key difference between SQL tables and MongoDB collections?
+
+What role do primary keys and foreign keys play in relational databases?
+
+When is a JOIN needed and what problem does it solve?
+
+How does filtering in SQL (WHERE) differ from MongoDB query filters?

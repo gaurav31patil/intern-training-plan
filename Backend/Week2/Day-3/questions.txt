@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What is middleware in Express, and where does it run in the request-response cycle?
+
+What is the difference between built-in middleware and custom middleware?
+
+Why is separating route handlers into controllers useful for real project structure?
+
+What role does a global error handler play in production applications?

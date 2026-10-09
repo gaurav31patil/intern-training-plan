@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What benefit do TypeScript types provide compared to plain JavaScript?
+
+What is the difference between type aliases and interface?
+
+Why would you use an enum instead of normal strings?
+
+How do TypeScript errors help prevent bugs during development?

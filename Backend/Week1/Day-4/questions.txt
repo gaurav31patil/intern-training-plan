@@ -1,0 +1,9 @@
+Questions / Discussions
+
+What problem does optional chaining solve when accessing nested properties?
+
+What is the difference between the spread operator and the rest operator?
+
+How does module-based file organization improve real project structure?
+
+When would you use nullish coalescing (??) instead of logical OR (||)?
